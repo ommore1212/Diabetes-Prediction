@@ -1,4 +1,4 @@
-#Diabetes Prediction Model
+# Diabetes Prediction Model
 
 Predicts diabetes using an SVM model.
 
